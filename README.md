@@ -1,4 +1,4 @@
-# TP : Maîtriser Git et GitHub – Du Débutant à l'Avancé
+# TP : Maîtriser Git et GitHub
 
 ## Contexte
 
